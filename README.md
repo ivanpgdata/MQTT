@@ -7,8 +7,8 @@ This is a simple project demonstrating how to implement an MQTT Publisher and Su
 The project consists of:
 - **Using Docker** with the image needed running.
 - **Two Python Scripts**:
-  - **Publisher**: Publishes a message to a specified MQTT topic.
-  - **Subscriber**: Subscribes to the same MQTT topic and receives the published message.
+  - **⬆️ Publisher**: Publishes a message to a specified MQTT topic.
+  - **️  Subscriber**: Subscribes to the same MQTT topic and receives the published message.
     
 ![](media/mqtt_pic1.jpg)
 
