@@ -10,6 +10,6 @@ The project consists of:
   - **Publisher**: Publishes a message to a specified MQTT topic.
   - **Subscriber**: Subscribes to the same MQTT topic and receives the published message.
     
-[](media/MQTT_test.mp4)
+[Video](media/MQTT_test.mp4)
 
 We had some issues during the project as the newest version of eclipse-mosquitto made it difficult to the subscriber to get the message, so I decided to use the 1.4.8 version instead
