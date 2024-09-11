@@ -1,6 +1,6 @@
 # MQTT BROKER PROJECT: Publisher/Subscriber
 
-This is a simple project demonstrating how to implement an MQTT Publisher and Subscriber using Python and the `paho-mqtt` library. The project is deployed using Docker with the `eclipse-mosquitto` image (version 1.4.8) as the MQTT broker.
+This project implements an MQTT Publisher and Subscriber using Python and the `paho-mqtt` library, deployed with Docker utilizing the `eclipse-mosquitto:1.4.8` image as the MQTT broker. The Publisher sends messages to a specified topic, while the Subscriber listens and processes these messages. The project demonstrates effective communication between devices or applications using the MQTT protocol.
 
 The project consists of:
 - **Using Docker** with the image needed running.
